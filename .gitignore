@@ -130,4 +130,5 @@ dmypy.json
 
 
 # Anki
-Selected Notes.apkg
+*.apkg
+*.sql
