@@ -133,3 +133,4 @@ dmypy.json
 *.apkg
 *.sql
 *.sql*
+*.anki*
