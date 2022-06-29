@@ -134,3 +134,4 @@ dmypy.json
 *.sql
 *.sql*
 *.anki*
+*.html

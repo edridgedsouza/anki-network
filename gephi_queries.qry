@@ -1,0 +1,3 @@
+-- note_image_sim
+select card_id, value as size from cards join note_image_sim nis on cards.card_id == nis.card_a and nis.card_a == nis.card_b;
+select card_a as source, card_b as target, value as weight from note_image_sim nis where nis.card_a <> nis.card_b;
